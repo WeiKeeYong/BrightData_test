@@ -20,6 +20,6 @@ I wanted an agent that could do more than just a simple search, so I gave it a b
 As I was building this, I experimented with a few different methods. You'll find three separate Python scripts in here, each showing a different way to build the same agent:
 
 1.  **`BrightData-search.py`**: This one uses the popular LangChain and LangGraph libraries. It's a great example of how to use those frameworks to build powerful agents.
-2.  **`BrightData-search-without-Langchains.py`**: Here, I tried building the agent from scratch, using some simple regex to understand the AI's commands. It's a look under the hood at how these agents work.
-3.  **`BrightData-Search-using-OpenaAI-Tools.py`**: This version uses the official OpenAI Tools framework. It's a more modern and robust way to handle the "tool-using" part of the agent.
+2.  **`BrightData-search-without-Langchains.py`**: Here, I tried building the agent from scratch, using some simple regex to understand the AI's commands. It's a look under the hood at how these agents work. Of course with LLM Help, i use claude.
+3.  **`BrightData-Search-using-OpenaAI-Tools.py`**: This version uses the official OpenAI Tools framework. It's a more modern and robust way to handle the "tool-using" part of the agent. Credit to Claude too.
 
