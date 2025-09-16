@@ -2,7 +2,7 @@
 
 ## Credits & Inspiration
 
-A huge shout-out to NeuralNine for making the original code, and here his youtube line 
+A huge shout-out to NeuralNine for making the original code, and here his youtube link 
 
 - **[Coding A Next-Gen Search Engine in Python](https://www.youtube.com/watch?v=yvXcu38rBU4)**
 - Most instruction getting the keys and link to register for Bright Data is in the youtube video. 
