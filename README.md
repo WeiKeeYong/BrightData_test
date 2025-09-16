@@ -5,6 +5,7 @@
 A huge shout-out to NeuralNine for making the original code, and here his youtube line 
 
 - **[Coding A Next-Gen Search Engine in Python](https://www.youtube.com/watch?v=yvXcu38rBU4)**
+- Most instruction getting the keys and link to register for Bright Data is in the youtube video. 
 
 Saw the sample crated by NeuralNine took his code, make some changes and also give me chance to figure out how to build a smart research agent. It uses the Bright Data API to pull live data from the web and OpenAI's models to think and act.
 
