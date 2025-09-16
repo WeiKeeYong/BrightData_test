@@ -57,7 +57,7 @@ logger = setup_logger()
 
 Logging = True
 
-# Define your API key for OpenAI
+# Getting the Keys and setting from file, you can change the key retrieval method as you wish
 openai_api_key = read_api_key_from_file(r"d:\codes\keys\keys.txt", 'OPENAI:')
 
 BRIGHTDATA_API_KEY = read_api_key_from_file(r"d:\codes\keys\keys.txt", 'BrightData:')
@@ -391,4 +391,5 @@ if __name__ == '__main__':
     print("ANSWER:")
     print("="*50)
     print(answer)
+
     log_info('Application completed')
